@@ -1,0 +1,4 @@
+name: WGFlags
+main: wgflags.Flags
+version: 1.0
+depend: [WorldGuard]
